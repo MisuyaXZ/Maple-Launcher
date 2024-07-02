@@ -11,8 +11,8 @@ mediaYouTubeURL = "https://misuyaxz.github.io/AnythingSMP/"
 mediaDiscordURL = "https://discord.gg/f2vCqxV6ME"
 
 [ejs.settings]
-sourceGithubLink = "#"
-supportLink = "#"
+sourceGithubLink = "https://github.com/MisuyaXZ/Maple-Launcher"
+supportLink = "https://github.com/MisuyaXZ/Maple-Launcher/issues"
 
 [ejs.welcome]
 welcomeHeader = "ยินดีต้อนรับ"
